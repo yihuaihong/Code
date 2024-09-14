@@ -1,0 +1,25 @@
+---
+   #3090里
+#  # Result files
+#  RESULTS_DIR: "/data/yhhong/Unlearning/memit-main/results"
+#
+#  # Data files
+#  DATA_DIR: "/data/yhhong/Unlearning/memit-main/data"
+#  STATS_DIR: "/data/yhhong/Unlearning/memit-main/data/stats"
+
+  #在a800里
+  # Result files
+  RESULTS_DIR: "/home/yihuaihong/TailoredKE/results"
+
+  # Data files
+  DATA_DIR: "/home/yihuaihong/TailoredKE/data"
+  STATS_DIR: "/home/yihuaihong/TailoredKE/data/stats"
+
+
+  KV_DIR: "/share/projects/rewriting-knowledge/kvs"
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://memit.baulab.info"
